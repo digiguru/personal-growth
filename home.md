@@ -1,6 +1,6 @@
 # Home
 
-- Write up ideas for [[personal growth]] (Remember you can `Cmd`+`Click` to them)
+- Write up ideas for [[growth]] (Remember you can `Cmd`+`Click` to them)
 - In each section I need to pad out the content
 - Explain what it is, why I want it and how I will know it is working.
 - There's also a [[todo]] to list the three things I'm focusing on.
