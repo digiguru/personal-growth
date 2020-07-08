@@ -23,13 +23,19 @@ I received some coaching from Kelly. It was a masterclass in coaching where I sp
 
 It was clear from the conversation that I rushed the presentation, but Kelly helped me protect myself from being overly critical on myself. She helped me explore how I dealt with an emerging situation of being unable to stick to the time-boxes and guided me on the actions I took and explored the consequences they had.
 
-The learnings I had were as follows.
+### Key Learnings
+
+#### Be wary of leaders who use closed language
   
-  *Be wary of leaders who use closed language* Example was when a Product person closed discussion around putting risks on a 2x2 grid (risk vs likelihood). A better solution would have been to use dot voting to ensure group think not HIPPo thinking. I allowed myself this misgiving by having run successful sessions with grid movements in the past, but acknowledge the reason that worked before was because of well gelled teams. This was a brand new teams.
+  Example was when a Product person closed discussion around putting risks on a 2x2 grid (risk vs likelihood). A better solution would have been to use dot voting to ensure group think not HIPPo thinking. I allowed myself this misgiving by having run successful sessions with grid movements in the past, but acknowledge the reason that worked before was because of well gelled teams. This was a brand new teams.
 
-  *Reduce scope not quality* My advice was a 2 day workshop. This got reduced down to 3 hours 30 minutes, and then a further reduced to 3 hours when the meeting was booked. As a result I found myself condensing the various workshop section lengths _rather than cutting scope_. This was a gross misgiving. You can't shoehorn things into smaller gaps, they need to grow to accommodate all the room.
+#### Reduce scope not quality
 
-  *Focus on the value* With time going over, I reduced quality. Kelly observed that I had a few stakeholders to please, and as a result I was trying to deliver too many things. Example:
+My advice was a 2 day workshop. This got reduced down to 3 hours 30 minutes, and then a further reduced to 3 hours when the meeting was booked. As a result I found myself condensing the various workshop section lengths _rather than cutting scope_. This was a gross misgiving. You can't shoehorn things into smaller gaps, they need to grow to accommodate all the room.
+
+#### Focus on the value
+
+With time going over, I reduced quality. Kelly observed that I had a few stakeholders to please, and as a result I was trying to deliver too many things. Example:
 
 - Stakeholder 1: I want people to gel as a team.
 - Stakeholder 2: I want to start things off with psychological safety being baked in
