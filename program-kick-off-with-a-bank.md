@@ -10,7 +10,23 @@ We had a large Program to start delivering a multi-month project for a bank. I w
 - What does a great team look like
 - How we deliver together
 - Team Agreements
+- Key ceremonies
 - Immediate Priorities
+
+Upon delivering the remote workshop I had massively underestimated the time it would take to prepare the individuals for each section. Participants arrived late, the flow between events wasn't smooth - important questions were asked. During the presentation I cut scope as follows:
+
+- Icebreaker (which overran due to poor estimation and a feeling I couldn't force the timebox once the event had started)
+- Context & vision (Which overran due to questions)
+- Architecture (Which overran due to questions)
+- Key Milestones (Which overran due to the presenter not being prepared to hit the timebox)
+- How we deliver together (Which was condensed to be a tell don't ask, and wasn't as involved as originally intended)
+- Premortem (which was perfect in terms of timings - identified the key risks being around documentation and knowledge sharing)
+- What does a great team look like - which was altered on the fly to become "What does a great team do to address documentation and knowledge sharing)
+- Key events (which was just a bullet list of what needs to be arranged for next time)
+
+Everything else was cut from the scope on the fly.
+
+I felt disappointed at the end of the event that I had clearly underestimated the amount of work I had committed to. I was also disappointed that key things I had agreed to were not in the final workshop.
 
 ## Kelly's coaching
 
