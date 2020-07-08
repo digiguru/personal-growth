@@ -18,3 +18,5 @@ By becoming a thought leader in my domain.
 - Early & Frequent Delivery of Value
 - Mastering difficult conversations
 - Fixing bad screen habits
+- [[Program Kick-off with a bank]]
+  

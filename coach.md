@@ -15,6 +15,7 @@ Luckily I have various collegues who have lots of expereince, so I can follow th
 
 ## My Journey
 
-- Working with a SM at IW
-- Working with a SM at SBB
-- Working with a Tech Lead at SBB
+- Working with an external ScrumMaster at a large shipping insurance provider
+- Working with an internal ScrumMaster at a bank
+- Working with an external Tech Lead at bank
+
