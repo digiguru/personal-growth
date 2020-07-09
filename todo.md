@@ -12,4 +12,6 @@
 - [ ] Include specific examples for achievements throughout 2020
 - [ ] Have coaching session with Dan
 
+``` javascript  
 // Remember use `Alt`+`C` to mark something as complete
+```
