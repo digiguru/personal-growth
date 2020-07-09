@@ -10,7 +10,9 @@
   - [x] coder
   - [x] father
 - [ ] Include specific examples for achievements throughout 2020
-- [ ] Have coaching session with Dan
+- [x] Have coaching session with Dan
+- [x] Update growth to include wheel of work
+- [ ] Decide how to address Family / Work Integration area into personal goals
 
 ``` javascript  
 // Remember use `Alt`+`C` to mark something as complete

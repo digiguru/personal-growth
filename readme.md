@@ -7,6 +7,10 @@
 - [[father]] (Fearless chef, proud pedagogue)
 - [[notoriety]] (Become respected in my industry)
 
+## Wheel of work
+
+![Wheel of work showing the key area's of focus are Family / Work integration, Meaning and Ethics](wheel-of-work.png "Wheel of Work")
+
 ``` javascript  
 // Remember `Ctrl`+`Click` creates a new file when editing in VS Code
 ```
