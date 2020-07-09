@@ -7,6 +7,8 @@
 - [[father]] (Fearless chef, proud pedagogue)
 - [[notoriety]] (Become respected in my industry)
 
+// Remember `Ctrl`+`Click` creates a new file when editing in VS Code
+
 ## Other links
 - [[todo]]
 - [Home](/)
