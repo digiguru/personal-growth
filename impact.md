@@ -9,7 +9,7 @@ We all want to feel useful in our careers. I want to be comfrotable that I make 
 ## How
 
 By keeping a list of promises I make and trying to deliver on every one of them.
-By knowing when I am overworked, and being able to communicate the fact early on and prioirtise the best thing to deliver.
+By knowing when I am overworked, and being able to communicate the fact early on and prioritize the best thing to deliver.
 By growing the AND Digital brand to existing clients and new opportunities.
 By becoming a thought leader in my domain.
 
@@ -19,5 +19,4 @@ By becoming a thought leader in my domain.
 - Mastering difficult conversations
 - Fixing bad screen habits
 - [Program kick-off with a bank](program-kick-off-with-a-bank.md)
-
 
