@@ -13,7 +13,7 @@
 
 ![Wheel of work showing the key area's of focus are Family / Work integration, Meaning and Ethics](wheel-of-work.png "Wheel of Work")
 
-The [wheel of work](https://docs.google.com/spreadsheets/d/1sA1i5l1mpEgJQ7pGiO1t6HaUarpiFw48fw8iQL_UHSY/edit?usp=sharing) helps individuals find gaps in their motivations and focus effort on how to make adjustments in the behavior that might affect their motivations.
+The [wheel of work](https://docs.google.com/spreadsheets/d/1sA1i5l1mpEgJQ7pGiO1t6HaUarpiFw48fw8iQL_UHSY/edit?usp=sharing){:target="_blank"} helps individuals find gaps in their motivations and focus effort on how to make adjustments in the behavior that might affect their motivations.
 
 ## Other links
 
