@@ -14,6 +14,4 @@
 - [x] Update growth to include wheel of work
 - [ ] Decide how to address Family / Work Integration area into personal goals
 
-``` javascript  
-// Remember use `Alt`+`C` to mark something as complete
-```
+[//]: # (Remember use `Alt`+`C` to mark something as complete)
