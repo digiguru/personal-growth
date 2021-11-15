@@ -20,3 +20,15 @@ Moderate my use of language so as I don't knowingly contribute to system racism,
 - `Folks` (not `Guys`)
 - `Distributer - Consumer` (not `Master - Slave`)
 - `That's unusual` (not `That's crazy`)
+
+
+### Racism
+
+Attending Shan's Racism conversation 
+
+Ubuntu - I am who I am because of who you are
+Call it out.
+Get feedback, give people permission.
+Ensure there are Role Models from all diversity
+
+I used the conversation as an opportunity to tell everyone that I demand feedback and want to be challenged if I am ever bigoted knowingly or unknowingly, casually or more severe.
